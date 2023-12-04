@@ -1,0 +1,7 @@
+https://radimrehurek.com/gensim/auto_examples/tutorials/run_wmd.html
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html
+
+https://github.com/AIPHES/emnlp19-moverscore/blob/master/moverscore.py
+
+https://github.com/wmayner/pyemd
